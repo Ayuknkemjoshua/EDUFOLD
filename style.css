@@ -89,6 +89,10 @@ nav img {
     border: 1px solid #f44336;
     transition: 1s;
     background: #f44336;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0b8082d (style.css and index.html update)
 }
 
 nav .fa {
@@ -352,13 +356,17 @@ testimonials-col.af {
 
 .icons,
 .fa-square-facebook .fa-square-twitter .fa-square-instagram .fa-linkedin {
+
+    font-size: 30px;
+    padding: 18px 0;
     color: #222;
     margin: 0 13px;
     cursor: pointer;
-    padding: 18px 0;
-    font-size: 30px;
+    padding: 30px 0;
+
 }
 
 .fa-heart {
     color: #f44336;
+
 }
