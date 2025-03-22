@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .header {
@@ -93,7 +93,7 @@ nav img {
     border: 1px solid #f44336;
     transition: 1s;
     background: #f44336;
-    
+
 }
 
 
@@ -140,8 +140,7 @@ nav .fa {
 }
 
 
-/*----- course -----*/
-
+/* course  */
 .course {
     width: 80%;
     margin: auto;
@@ -196,7 +195,7 @@ h3 {
     }
 }
 
-/*------- campus -------*/
+/* campus  */
 .campus {
     width: 80%;
     margin: auto;
@@ -252,9 +251,7 @@ h3 {
 
 }
 
-/*------- facilities ----------*/
-
-
+/* facilities  */
 .facilities {
     width: 80%;
     margin: auto;
@@ -286,8 +283,7 @@ h3 {
     text-align: left;
 }
 
-/*-----testimonials------*/
-
+/* testimonials */
 .testimonials {
     width: 80%;
     margin: auto;
@@ -341,7 +337,7 @@ testimonials-col.af {
     }
 }
 
-/*----- Call to action -----*/
+/* Call to action /  */
 .cta {
     margin: 100px auto;
     width: 80%;
@@ -368,7 +364,7 @@ testimonials-col.af {
     }
 }
 
-/*----- footer -----*/
+/* footer  */
 .footer {
     width: 100%;
     text-align: center;
@@ -383,14 +379,20 @@ testimonials-col.af {
     font-weight: 600;
 
 }
-
-.icons .fa {
-    color: #f44336;
+.icons, 
+.fa-square-facebook
+.fa-square-twitter
+.fa-square-instagram
+.fa-linkedin{
+       
+    height: 32px; 
+    font-size: 30px;
     margin: 0 13px;
     cursor: pointer;
-    padding: 18px 0;
+     padding: 18px 0;
 }
 
-.fa-heart-o {
+
+.fa-heart{
     color: #f44336;
 }
