@@ -91,21 +91,20 @@ nav img {
   background: #f44336;
 }
 
-
 nav .fa {
   display: none;
 }
 
-@media(max-width: 700px) {
-    .text-box h1 {
+@media (max-width: 700px) {
+  .text-box h1 {
     font-size: 20px;
-    }
+  }
 
-    .nav-links ul li {
+  .nav-links ul li {
     display: block;
-    }
+  }
 
-    .nav-links {
+  .nav-links {
     position: absolute;
     background: #f44336;
     height: 100vh;
@@ -115,9 +114,9 @@ nav .fa {
     text-align: left;
     z-index: 2;
     transition: 1s;
-    }
+  }
 
-    nav .fa {
+  .nav .fa {
     display: block;
     color: #fff;
     margin: 10px;
@@ -125,7 +124,7 @@ nav .fa {
     cursor: pointer;
   }
 
-    .nav-links ul {
+  .nav-links ul {
     padding: 30px;
   }
 
@@ -171,7 +170,7 @@ p {
 h3 {
   text-align: center;
   font-weight: 600;
-   margin: 10px 0;
+  margin: 10px 0;
 
 }
 
@@ -239,7 +238,7 @@ h3 {
   opacity: 1;
 }
 
-/* facilities  */
+/* facilities */
 .facilities {
   width: 80%;
   margin: auto;
@@ -287,7 +286,6 @@ h3 {
   padding-left: 25px;
   cursor: pointer;
   display: flex;
-
 }
 
 .testimonials-col img {
@@ -301,7 +299,7 @@ h3 {
   padding: 0;
 }
 
-.testimonials-coles h3 {
+.h3 testimonials-col  {
   margin-top: 15px;
   text-align: left;
 }
@@ -317,7 +315,7 @@ testimonials-col.af {
   }
 }
 
-/* Call to action /  */
+/* Call to action */
 .cta {
   margin: 100px auto;
   width: 80%;
@@ -341,7 +339,7 @@ testimonials-col.af {
   }
 }
 
-/* footer  */
+/* footer */
 .footer {
   width: 100%;
   text-align: center;
