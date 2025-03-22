@@ -384,13 +384,20 @@ testimonials-col.af {
 
 }
 
-.icons .fa {
-    color: #f44336;
+.icons, 
+
+fa-brands fa-square-facebook
+fa-brands fa-square-twitter
+fa-brands fa-square-instagram
+fa-brands fa-linkedin
+
+{font-size: 30px;
+    color: #222;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
 }
 
-.fa-heart-o {
+.fa-heart{
     color: #f44336;
 }
