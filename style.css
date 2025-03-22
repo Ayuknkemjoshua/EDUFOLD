@@ -127,7 +127,6 @@ nav .fa {
   .nav-links ul {
     padding: 30px;
   }
-
 }
 
 /* course  */
@@ -138,7 +137,7 @@ nav .fa {
   padding-top: 100px;
 }
 
-h1 {
+.h1 {
   font-size: 36px;
   font-weight: 600;
 }
@@ -171,15 +170,13 @@ h3 {
   text-align: center;
   font-weight: 600;
   margin: 10px 0;
-
 }
 
 .course-col:hover {
   box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%);
-
 }
 
-@media(max-width: 700px) {
+@media (max-width: 700px) {
   .row {
     flex-direction: column;
   }
@@ -308,7 +305,7 @@ testimonials-col.af {
   color: #f44336;
 }
 
-@media(max-width: 700px) {
+@media (max-width: 700px) {
   .testimonial-col img {
     margin-left: 0;
     margin-right: 15px;
@@ -333,7 +330,7 @@ testimonials-col.af {
   padding: 0;
 }
 
-@media(max-width: 700px) {
+@media (max-width: 700px) {
   .cta h1 {
     font-size: 24px;
   }
