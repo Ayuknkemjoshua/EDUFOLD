@@ -271,7 +271,6 @@ h3 {
   margin: auto;
   padding-top: 100px;
   text-align: center;
-
 }
 
 .testimonials-col {
@@ -351,7 +350,6 @@ testimonials-col.af {
 
 .icons,
 .fa-square-facebook .fa-square-twitter .fa-square-instagram .fa-linkedin {
-
   height: 32px;
   font-size: 30px;
   margin: 0 13px;
@@ -362,5 +360,4 @@ testimonials-col.af {
 
 .fa-heart{
   color: #f44336;
-}
-
+ }
