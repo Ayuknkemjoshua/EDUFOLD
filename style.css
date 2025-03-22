@@ -143,7 +143,7 @@ h1 {
   font-weight: 600;
 }
 
-p {
+.p {
   color: #777;
   font-size: 14px;
   font-weight: 300;
@@ -175,12 +175,12 @@ h3 {
 }
 
 .course-col:hover {
-  box-shadow: 0 0 20px 0px rgb(0 0 0 / 20%);
-  
+  box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%);
+
 }
 
 @media(max-width: 700px) {
-    .row {
+  .row {
     flex-direction: column;
   }
 }
@@ -299,18 +299,18 @@ h3 {
   padding: 0;
 }
 
-.h3 testimonials-col  {
+.h3 testimonials-col {
   margin-top: 15px;
   text-align: left;
 }
 
 testimonials-col.af {
-    color: #f44336;
+  color: #f44336;
 }
 
 @media(max-width: 700px) {
-    .testimonial-col img {
-    margin-left: 0px;
+  .testimonial-col img {
+    margin-left: 0;
     margin-right: 15px;
   }
 }
@@ -334,7 +334,7 @@ testimonials-col.af {
 }
 
 @media(max-width: 700px) {
-    .cta h1 {
+  .cta h1 {
     font-size: 24px;
   }
 }
@@ -351,19 +351,19 @@ testimonials-col.af {
   margin-top: 20px;
   font-weight: 600;
 }
-.icons, 
-.fa-square-facebook
-.fa-square-twitter
-.fa-square-instagram
-.fa-linkedin{
-       
-  height: 32px; 
+
+.icons,
+.fa-square-facebook .fa-square-twitter .fa-square-instagram .fa-linkedin {
+
+  height: 32px;
   font-size: 30px;
   margin: 0 13px;
   cursor: pointer;
   padding: 18px 0;
+  word-break: break-all;
 }
 
 .fa-heart{
   color: #f44336;
 }
+
