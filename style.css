@@ -309,6 +309,7 @@ h3 {
   cursor: pointer;
   display: flex;
 }
+
 .testimonials-col img,
 .testimonials-col-two img,
 .testimonials-col-three img {
@@ -339,7 +340,7 @@ testimonials-col.af {
 }
 
 .great,
-.Awesome {
+.awesome {
   color: #777;
 }
 
