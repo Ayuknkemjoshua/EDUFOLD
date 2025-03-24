@@ -155,10 +155,9 @@ nav .fa {
   display: flex;
   justify-content: space-between;
 }
+
 .course-col-one,
-
 .course-col-two,
-
 .course-col-three {
   flex-basis: 31%;
   background: #fff3f3;
@@ -203,8 +202,7 @@ h3 {
 
 .campus-col,
 .campus-col-two,
-.campus-col-three
- {
+.campus-col-three {
   flex-basis: 32%;
   border-radius: 10px;
   margin-bottom: 30px;
@@ -214,8 +212,7 @@ h3 {
 
 .campus-col img,
 .campus-col-two img,
-.campus-col-three img
-{
+.campus-col-three img {
   width: 100%;
   display: block;
 }
@@ -315,8 +312,7 @@ color: #080707;
 }
 .testimonials-col img,
 .testimonials-col-two img,
-.testimonials-col-three img
-{
+.testimonials-col-three img {
   height: 40px;
   margin-left: 5px;
   margin-right: 30px;
@@ -344,9 +340,7 @@ testimonials-col.af {
 }
 
 .great,
-.Awesome
-
-{
+.Awesome {
   color: #777 
 }
 
