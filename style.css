@@ -285,8 +285,8 @@ h3 {
 
 .Students,
 .ajax,
-  .about {
-color: #080707;
+.about {
+  color: #080707;
 }
 
 /* testimonials */
@@ -296,10 +296,9 @@ color: #080707;
   padding-top: 100px;
   text-align: center;
 }
+
 .testimonials-col,
-
 .testimonials-col-two,
-
 .testimonials-col-three {
   flex-basis: 44%;
   border-radius: 10px;
@@ -341,7 +340,7 @@ testimonials-col.af {
 
 .great,
 .Awesome {
-  color: #777 
+  color: #777;
 }
 
 /* Call to action */
