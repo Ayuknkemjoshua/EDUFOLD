@@ -200,10 +200,9 @@ h3 {
   text-align: center;
   padding: 50px;
 }
+
 .campus-col,
-
 .campus-col-two,
-
 .campus-col-three
  {
   flex-basis: 32%;
@@ -212,10 +211,9 @@ h3 {
   position: relative;
   overflow: hidden;
 }
+
 .campus-col img,
-
 .campus-col-two img,
-
 .campus-col-three img
 {
   width: 100%;
@@ -267,20 +265,18 @@ h3 {
   text-align: center;
   padding-top: 100px;
 }
+
 .facilities-col,
-
 .facilities-col-two,
-
 .facilities-col-three {
   flex-basis: 31%;
   border-radius: 10px;
   margin-bottom: 5%;
   text-align: left;
 }
+
 .facilities-col img,
-
 .facilities-col-two img,
-
 .facilities-col-three img {
   width: 100%;
   border-radius: 10px;
@@ -317,11 +313,8 @@ color: #080707;
   cursor: pointer;
   display: flex;
 }
-
 .testimonials-col img,
-
 .testimonials-col-two img,
-
 .testimonials-col-three img
 {
   height: 40px;
