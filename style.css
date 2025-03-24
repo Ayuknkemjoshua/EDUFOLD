@@ -157,7 +157,9 @@ nav .fa {
 }
 
 .course-col-one,
+
 .course-col-two,
+
 .course-col-three {
   flex-basis: 31%;
   background: #fff3f3;
@@ -201,7 +203,9 @@ h3 {
 }
 
 .campus-col,
+
 .campus-col-two,
+
 .campus-col-three
  {
   flex-basis: 32%;
@@ -211,8 +215,10 @@ h3 {
   overflow: hidden;
 }
 
-.campus-col img, 
+.campus-col img,
+
 .campus-col-two img,
+
 .campus-col-three img
 {
   width: 100%;
@@ -266,7 +272,9 @@ h3 {
 }
 
 .facilities-col,
+
 .facilities-col-two,
+
 .facilities-col-three {
   flex-basis: 31%;
   border-radius: 10px;
@@ -275,7 +283,9 @@ h3 {
 }
 
 .facilities-col img,
+
 .facilities-col-two img,
+
 .facilities-col-three img {
   width: 100%;
   border-radius: 10px;
@@ -300,9 +310,10 @@ color: #080707;
 }
 
 .testimonials-col,
+
 .testimonials-col-two,
-.testimonials-col-three
-{
+
+.testimonials-col-three {
   flex-basis: 44%;
   border-radius: 10px;
   margin-bottom: 5%;
@@ -313,8 +324,10 @@ color: #080707;
   display: flex;
 }
 
-.testimonials-col img, 
+.testimonials-col img,
+
 .testimonials-col-two img,
+
 .testimonials-col-three img
 {
   height: 40px;
@@ -343,8 +356,10 @@ testimonials-col.af {
   }
 }
 
-.great
-.Awesome {
+.great,
+.Awesome
+
+{
   color: #777 
 }
 
