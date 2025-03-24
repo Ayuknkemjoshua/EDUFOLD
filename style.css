@@ -158,7 +158,7 @@ nav .fa {
 
 .course-col-one,
 .course-col-two,
-.course-col-three{
+.course-col-three {
   flex-basis: 31%;
   background: #fff3f3;
   margin-bottom: 5%;
@@ -177,9 +177,11 @@ h3 {
 .course-col-one:hover {
   box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%);
 }
+
 .course-col-two:hover {
   box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%);
 }
+
 .course-col-three:hover {
   box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%);
 }
@@ -285,8 +287,7 @@ h3 {
 
 .Students,
 .ajax,
-.about
-{
+  .about {
 color: #080707;
 }
 
@@ -343,8 +344,8 @@ testimonials-col.af {
 }
 
 .great
-.Awesome{
-  color:#777 
+.Awesome {
+  color: #777 
 }
 
 /* Call to action */
